@@ -1,0 +1,1 @@
+This folder is created in local machine and pushed to git directory.
